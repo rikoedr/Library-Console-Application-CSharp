@@ -19,7 +19,7 @@ public class ErrorHandlers {
 			int result;
 			bool isParseable = int.TryParse(value, out result);
 
-			return result;
+			return int.Parse(value);
 		}
 		catch(FormatException) {
 			Console.WriteLine("[+] Input yang dimasukkan tidak sesuai.");
