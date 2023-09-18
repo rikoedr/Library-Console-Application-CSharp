@@ -1,0 +1,14 @@
+E:\Mini Project\Library-Console-Application\bin\Debug\net6.0\Library-Console-Application.exe
+E:\Mini Project\Library-Console-Application\bin\Debug\net6.0\Library-Console-Application.deps.json
+E:\Mini Project\Library-Console-Application\bin\Debug\net6.0\Library-Console-Application.runtimeconfig.json
+E:\Mini Project\Library-Console-Application\bin\Debug\net6.0\Library-Console-Application.dll
+E:\Mini Project\Library-Console-Application\bin\Debug\net6.0\Library-Console-Application.pdb
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\Library-Console-Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\Library-Console-Application.AssemblyInfoInputs.cache
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\Library-Console-Application.AssemblyInfo.cs
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\Library-Console-Application.csproj.CoreCompileInputs.cache
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\Library-Console-Application.dll
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\refint\Library-Console-Application.dll
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\Library-Console-Application.pdb
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\Library-Console-Application.genruntimeconfig.cache
+E:\Mini Project\Library-Console-Application\obj\Debug\net6.0\ref\Library-Console-Application.dll
