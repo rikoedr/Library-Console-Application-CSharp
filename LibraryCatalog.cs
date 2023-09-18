@@ -19,14 +19,15 @@ public class LibraryCatalog {
     /* Delete Book by ID */
     public void deleteBook() {
 		Console.WriteLine("[+] DELETE BOOK BY ID");
+        showAllBook();
 
 		int bookID = Util.customIntegerInput("[-] Input Book ID : ");
 
-		if (bookID < 0) {
-			Console.WriteLine("[ ] ID Not Found!");
-		}
-		else {
-			bookList.RemoveAt(bookID);
+        if (bookID < 0 || bookID > bookList.Count) {
+            Console.WriteLine("[ ] ID not found.");
+        }
+        else {
+			bookList.RemoveAt(bookID - 1);
 			Console.WriteLine("[ ] Selected book successfully deleted.");
 		}
 	}
