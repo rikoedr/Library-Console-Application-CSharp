@@ -2,14 +2,14 @@
 
 public class Util {
 	public static string customStringInput(string inputMessage) {
-		Console.WriteLine(inputMessage);
+		Console.Write(inputMessage);
 		string input = Console.ReadLine();
 
 		return ErrorHandlers.stringCheck(input);
 	}
 
 	public static int customIntegerInput(string inputMessage) {
-		Console.WriteLine(inputMessage);
+		Console.Write(inputMessage);
 		string input = Console.ReadLine();
 
 		return ErrorHandlers.integerParseCheck(input);
